@@ -8,10 +8,12 @@ It can work in a windows environment. But it requires extra steps and I won’t 
 ## **Docker and Docker Compose**
 
 Version 17.06.2 or greater is required. 
+
 For Mac - https://docs.docker.com/docker-for-mac/install/
+
 For Linux - (ubuntu) https://docs.docker.com/install/linux/docker-ce/ubuntu/ 
 
-      *(You can find other distros there as well)*
+      (You can find other distros there as well)
 
 
 ## **Go Programming Language**
