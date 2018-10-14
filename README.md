@@ -48,7 +48,7 @@ You can make use of virtual env for this if the default python is 3.6
 
 
 ## Get The Starter Code
-    ```curl -sSL http://bit.ly/2ysbOFE | bash -s 1.2.1```
+    curl -sSL http://bit.ly/2ysbOFE | bash -s 1.2.1
 
 Run the above command in the directory you want to download the sample codes in. 
 This will also download the docker images.
